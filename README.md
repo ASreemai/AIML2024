@@ -5,3 +5,4 @@
 #Assignment5(1):https://github.com/ASreemai/AIML2024/blob/main/2203A51589_AIML_AS5.ipynb
 #Assignment6:https://github.com/ASreemai/AIML2024/blob/main/2203A51589_AIML_AS6.ipynb
 #Assignment7:https://github.com/ASreemai/AIML2024/blob/main/2203A51589_AIML_AS7.ipynb
+#AIML project :https://github.com/ASreemai/AIML2024/blob/main/GLOBAL_FOOD_INFLATION_AIML_PROJECT%20(1).ipynb
